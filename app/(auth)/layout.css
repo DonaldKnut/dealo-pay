@@ -1,0 +1,11 @@
+.auth-asset_ {
+  background: url("../../public/icons/dealo_bank-image_.png") center/cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+@media (max-width: 968px) {
+  .auth-asset_ {
+    display: none;
+  }
+}
